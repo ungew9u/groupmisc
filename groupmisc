@@ -10,5 +10,5 @@ local v0=tonumber;local v1=string.byte;local v2=string.char;local v3=string.sub;
 wait (0.00000001)
 
 else
-        game:GetService("StarterGui"):SetCore("SendNotification", {Title = "not in group, dm unge for more info", Text = "the groups name is 999life ", Duration = 20})
+        game:GetService("StarterGui"):SetCore("SendNotification", {Title = "not in group, dm unge for more info", Text = "the group name is 999life ", Duration = 20})
 end
